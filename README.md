@@ -275,8 +275,7 @@ Open `firmware/esp32_stabilization/` in Arduino IDE or PlatformIO, select your E
 | 👩‍💻 Author | [github.com/Snehaa018](https://github.com/Snehaa018) |
 | 📖 API docs (local) | [localhost:8000/docs](http://localhost:8000/docs) |
 | 🏆 Smart India Hackathon | [sih.gov.in](https://www.sih.gov.in) |
-| 🎥 Demo video | _add link_ |
-| 📊 Presentation | _add link_ |
+
 
 ---
 
