@@ -292,8 +292,6 @@ Open `firmware/esp32_stabilization/` in Arduino IDE or PlatformIO, select your E
 
 Built for **Smart India Hackathon 2026** · Team SAHAYAK-AI
 
-_Add team member names and GitHub profiles here._
-
 
 <div align="center">
 
